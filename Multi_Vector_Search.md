@@ -57,10 +57,6 @@ NRA中的TA在这里不适用，因为TA需要Random Access
 
 
 
----
-
-
-
 # Dessert
 
 ---
@@ -90,3 +86,11 @@ NRA中的TA在这里不适用，因为TA需要Random Access
 
 - [Open Review](https://openreview.net/forum?id=kXfrlWXLwH)
 - [知乎专栏](https://zhuanlan.zhihu.com/p/717756754)
+
+
+
+# Approximate Nearest Neighbor Search with Window Filters
+
+## Meta
+
+- Approximate Nearest Neighbor Search with Window Filters
