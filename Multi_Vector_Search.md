@@ -93,7 +93,7 @@ NRA 中的 TA 在这里不适用，因为 TA 需要 Random Access
 
 
 
-# Approximate vector set search: A bio-inspired approach for high-dimensional spaces
+# [Bio-Based]Approximate vector set search: A bio-inspired approach for high-dimensional spaces
 
 ## Content
 
@@ -150,7 +150,11 @@ b: Dimension of Bloom Filter (mayber b <= m)
 
 <img src="./asserts/Multi_Vector_Search/image-20250322171104507.png" alt="image-20250322171104507" style="zoom:80%;" />
 
+带过滤的搜索算法
 
+![image-20250322214623208](./asserts/Multi_Vector_Search/image-20250322214623208.png)
+
+这里莫名其妙的引入了M这个超参数?
 
 ## Related
 
@@ -166,7 +170,7 @@ b: Dimension of Bloom Filter (mayber b <= m)
 
 
 
-# A neural algorithm for a fundamental computing problem
+# [FlyHash]A neural algorithm for a fundamental computing problem
 
 ## Content
 
@@ -209,7 +213,7 @@ b: Dimension of Bloom Filter (mayber b <= m)
 
 
 
-# An efficient engine for late interaction retrieval
+# [Plaid]An efficient engine for late interaction retrieval
 
 ## Content
 
