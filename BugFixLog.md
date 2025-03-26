@@ -39,6 +39,15 @@ ls -l /usr/lib/x86_64-linux-gnu/libstdc++.so* #查libc++版本
 
 
 
+> [!bug]
+>
+>  CMake Error at CMakeLists.txt:36 (pybind11_add_module):
+>         Unknown CMake command "pybind11_add_module".
+
+把[pybind/pybind11](https://github.com/pybind/pybind11)拉下来手动安装
+
+
+
 # HuggingFace Connection
 
 > [!bug]
